@@ -32,6 +32,7 @@ app.use("/api/v1/audit/", require("./routes/audit.js"))
 app.use("/api/v1/auth/", require("./routes/auth.js"))
 app.use("/api/v1/import/", require("./routes/import.js"))
 app.use("/api/v1/make/", require("./routes/makeHi"))
+app.use("/api/v1/report/", require("./routes/report"))
 
 // cron.schedule('0 0 */1 * * *', () => {
 //     PushHiController.PushHi    
