@@ -1,0 +1,20 @@
+DB1_HOST=
+DB1_USER=
+DB1_PASS=
+DB1_NAME=
+
+# Database HosXp
+DB2_HOST=
+DB2_USER=
+DB2_PASS=
+DB2_NAME=
+
+PORT=3030
+
+SECRET_KEY=YS1fOW8iiAOm6VLVNWKjQYvFrsCg0q9xKc9Mp4FRoHD1LzJigQbCAxWqIZwOk+FcrvrIue/5nyppTr0TgYmORg==
+
+#email reset password
+EMAIL_USER = 
+EMAIL_PASS = 
+
+BASE_URL = 
